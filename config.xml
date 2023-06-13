@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="cutanddry.fishguys.mobile.ios" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="cutanddry.fishguys.mobile.ios" android-packageName="cutanddry.fishguys.mobile.android" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>The-Fish-Guys</name>
     <description>The Fish Guys mobile application</description>
      <author email="support@cutanddry.com">
@@ -22,6 +22,17 @@
     <preference name="intercom-app-id" value="lxon3spp" />
     <preference name="intercom-ios-api-key" value="ios_sdk-4c74b0f803fb085f0ad06250c050d9508962a059" />
     <preference name="AndroidXEnabled" value="true" />
+        <platform name="android">
+        <allow-navigation href="http://thefishguys.cutanddry.com/*" />
+        <allow-navigation href="https://distributor-staging-thefishguys.cutanddry.com/*" />
+        <allow-navigation href="https://secure.safewebservices.com/*" />
+        <edit-config file="app/src/main/AndroidManifest.xml" mode="merge" target="/manifest/application">
+            <application android:usesCleartextTraffic="true" />
+        </edit-config>
+        <config-file parent="/*" target="AndroidManifest.xml">
+            <uses-feature android:name="android.hardware.camera" android:required="false" />
+        </config-file>
+    </platform>
     <platform name="ios">
         <preference name="ErrorUrl" value="index.html" />
         <allow-navigation href="http://thefishguys.cutanddry.com/*" />
