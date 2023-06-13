@@ -1,0 +1,118 @@
+{
+	"project_info": {
+		"project_number": "444850244378",
+		"project_id": "cut-dry-classic",
+		"storage_bucket": "cut-dry-classic.appspot.com"
+	},
+	"client": [
+		{
+			"client_info": {
+				"mobilesdk_app_id": "1:444850244378:android:0ab7d00b52977ea6067aa3",
+				"android_client_info": {
+					"package_name": "cutanddry.dicarlo.mobile.android"
+				}
+			},
+			"oauth_client": [
+				{
+					"client_id": "444850244378-v2mh96qrob36q4giv8hcvrvubpm0b7lm.apps.googleusercontent.com",
+					"client_type": 3
+				}
+			],
+			"api_key": [
+				{
+					"current_key": "AIzaSyCvWc12NOZd4JcFVgFKoDJeqgEGLilFpII"
+				}
+			],
+			"services": {
+				"appinvite_service": {
+					"other_platform_oauth_client": [
+						{
+							"client_id": "444850244378-v2mh96qrob36q4giv8hcvrvubpm0b7lm.apps.googleusercontent.com",
+							"client_type": 3
+						},
+						{
+							"client_id": "444850244378-2tbec54e2fd2e456hlosjdn3s25go7mu.apps.googleusercontent.com",
+							"client_type": 2,
+							"ios_info": {
+								"bundle_id": "cutanddry.dicarlo.mobile.ios"
+							}
+						}
+					]
+				}
+			}
+		},
+		{
+			"client_info": {
+				"mobilesdk_app_id": "1:444850244378:android:6d2e35b76739d458067aa3",
+				"android_client_info": {
+					"package_name": "cutanddry.mobile.android"
+				}
+			},
+			"oauth_client": [
+				{
+					"client_id": "444850244378-v2mh96qrob36q4giv8hcvrvubpm0b7lm.apps.googleusercontent.com",
+					"client_type": 3
+				}
+			],
+			"api_key": [
+				{
+					"current_key": "AIzaSyCvWc12NOZd4JcFVgFKoDJeqgEGLilFpII"
+				}
+			],
+			"services": {
+				"appinvite_service": {
+					"other_platform_oauth_client": [
+						{
+							"client_id": "444850244378-v2mh96qrob36q4giv8hcvrvubpm0b7lm.apps.googleusercontent.com",
+							"client_type": 3
+						},
+						{
+							"client_id": "444850244378-2tbec54e2fd2e456hlosjdn3s25go7mu.apps.googleusercontent.com",
+							"client_type": 2,
+							"ios_info": {
+								"bundle_id": "cutanddry.dicarlo.mobile.ios"
+							}
+						}
+					]
+				}
+			}
+		},
+		{
+			"client_info": {
+				"mobilesdk_app_id": "1:444850244378:android:208127d12b67841c067aa3",
+				"android_client_info": {
+					"package_name": "cutanddry.portal.mobile.android"
+				}
+			},
+			"oauth_client": [
+				{
+					"client_id": "444850244378-v2mh96qrob36q4giv8hcvrvubpm0b7lm.apps.googleusercontent.com",
+					"client_type": 3
+				}
+			],
+			"api_key": [
+				{
+					"current_key": "AIzaSyCvWc12NOZd4JcFVgFKoDJeqgEGLilFpII"
+				}
+			],
+			"services": {
+				"appinvite_service": {
+					"other_platform_oauth_client": [
+						{
+							"client_id": "444850244378-v2mh96qrob36q4giv8hcvrvubpm0b7lm.apps.googleusercontent.com",
+							"client_type": 3
+						},
+						{
+							"client_id": "444850244378-2tbec54e2fd2e456hlosjdn3s25go7mu.apps.googleusercontent.com",
+							"client_type": 2,
+							"ios_info": {
+								"bundle_id": "cutanddry.dicarlo.mobile.ios"
+							}
+						}
+					]
+				}
+			}
+		}
+	],
+	"configuration_version": "1"
+}
