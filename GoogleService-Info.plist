@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>444850244378-riiqca5pl5j3fnu6mcdik86tfr8rqcbb.apps.googleusercontent.com</string>
+	<string>444850244378-kbtj2ks2ugd47flblo7t81uipu6l7qon.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.444850244378-riiqca5pl5j3fnu6mcdik86tfr8rqcbb</string>
+	<string>com.googleusercontent.apps.444850244378-kbtj2ks2ugd47flblo7t81uipu6l7qon</string>
 	<key>API_KEY</key>
 	<string>AIzaSyCLZ2LnbY6cktgZJjan2bkNptr837hko0A</string>
 	<key>GCM_SENDER_ID</key>
@@ -13,7 +13,7 @@
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>cutanddry.fishguys.mobile.ios</string>
+	<string>cutanddry.thefishguys.mobile.ios</string>
 	<key>PROJECT_ID</key>
 	<string>cut-dry-classic</string>
 	<key>STORAGE_BUCKET</key>
@@ -29,6 +29,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:444850244378:ios:e0b1dadb1a1f6f53067aa3</string>
+	<string>1:444850244378:ios:ad2d882781678376067aa3</string>
 </dict>
 </plist>
