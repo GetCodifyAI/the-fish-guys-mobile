@@ -1,5 +1,5 @@
 {
-	"name": "cutanddry.dicarlo.mobile.ios",
+	"name": "cutanddry.thefishguys.mobile.ios",
 	"displayName": "The-Fish-Guys-mobile",
 	"version": "0.2.5",
 	"description": "The Fish Guys mobile application.",
@@ -39,7 +39,7 @@
 	"cordova": {
 		"plugins": {
 			"cordova-plugin-customurlscheme": {
-				"URL_SCHEME": "dicarlo.cutanddry",
+				"URL_SCHEME": "thefishguys.cutanddry",
 				"ANDROID_SCHEME": " ",
 				"ANDROID_HOST": " ",
 				"ANDROID_PATHPREFIX": "/"
