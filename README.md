@@ -77,6 +77,4 @@ cordova-plugin-whitelist 1.3.5 "Whitelist"
   - technically you can edit it but it will be erased if you re-add platform / re-generate the build, so probably you don't want to be touching it.
 
 ## Demo
-<img src="https://user-images.githubusercontent.com/47828170/230006241-ce07661f-883f-4b66-a98c-1c2e054ca6c0.png" alt="login page" style="width:50%; height:50%;"/>
-
-
+<img src="https://github.com/GetCodifyAI/the-fish-guys-mobile/blob/main/resources/login.png" style="width:50%; height:50%;"/>
