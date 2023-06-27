@@ -23,7 +23,7 @@
     <preference name="intercom-ios-api-key" value="ios_sdk-4c74b0f803fb085f0ad06250c050d9508962a059" />
     <preference name="AndroidXEnabled" value="true" />
         <platform name="android">
-        <allow-navigation href="http://thefishguys.cutanddry.com/*" />
+        <allow-navigation href="https://thefishguys.cutanddry.com/*" />
         <allow-navigation href="https://distributor-staging-thefishguys.cutanddry.com/*" />
         <allow-navigation href="https://secure.safewebservices.com/*" />
         <edit-config file="app/src/main/AndroidManifest.xml" mode="merge" target="/manifest/application">
@@ -35,7 +35,7 @@
     </platform>
     <platform name="ios">
         <preference name="ErrorUrl" value="index.html" />
-        <allow-navigation href="http://thefishguys.cutanddry.com/*" />
+        <allow-navigation href="https://thefishguys.cutanddry.com/*" />
         <allow-navigation href="https://distributor-staging-thefishguys.cutanddry.com/*" />
         <allow-navigation href="gap://ready" />
         <allow-navigation href="https://secure.safewebservices.com/*" />
@@ -88,8 +88,8 @@
     </platform>
     <universal-links>
         <ios-team-id value="246TQRHP2H" />
-        <host event="launchedAppFromLink" name="thefishguys.cutanddry.com/" scheme="https" />
-        <host name="thefishguys.cutanddry.com/" scheme="https">
+        <host event="launchedAppFromLink" name="thefishguys.cutanddry.com" scheme="https" />
+        <host name="thefishguys.cutanddry.com" scheme="https">
             <path event="launchedAppFromLink" url="/userspublic/loginRedirect/*" />
             <path event="launchedAppFromLink" url="/cashback*" />
             <path event="launchedAppFromLink" url="/*order*" />
