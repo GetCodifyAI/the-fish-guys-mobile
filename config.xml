@@ -21,6 +21,7 @@
     <preference name="intercom-android-push-type" value="FCM"/>
     <preference name="intercom-app-id" value="lxon3spp" />
     <preference name="intercom-ios-api-key" value="ios_sdk-4c74b0f803fb085f0ad06250c050d9508962a059" />
+    <preference name="android-targetSdkVersion" value="31" />
     <preference name="AndroidXEnabled" value="true" />
         <platform name="android">
         <allow-navigation href="https://thefishguys.cutanddry.com/*" />
